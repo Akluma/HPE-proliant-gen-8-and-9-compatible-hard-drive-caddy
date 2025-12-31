@@ -2,6 +2,10 @@
 
 * Easy to print and assembly disk caddy for gen8 and 9 HPE proliant. (Possible 10, 11 and 12. But i can not guarantee compatibility because i dont have access to anythink else than 8 and 9 gen.)
 
+<img width="1930" height="1086" alt="show all main plages" src="https://github.com/user-attachments/assets/b0ef627a-b434-431c-a39b-0e9e6b108ff2" />
+
+![Untitled-v1](https://github.com/user-attachments/assets/8bdf7b1b-322b-404a-a3bd-6c0f40e9e5c5)
+
 
 # Printing
 * I love organic support but in this case the grid works best in tihs case. The design is with cost in mind so whole caddy is only around 10g.
