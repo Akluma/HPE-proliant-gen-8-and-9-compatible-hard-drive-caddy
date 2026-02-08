@@ -1,6 +1,6 @@
 # HPE-gen-8-and-9-compatible-hard-drive-caddy
 
-* Easy to print and assembly disk caddy for gen8 and 9 HPE proliant. (Possible 10, 11 and 12. But I can not guarantee compatibility because I don't have access to anything else than 8 and 9 gen.)
+* Easy to print and assembly disk caddy for gen8 and 9 HPE proliant. It replaces 727695-001, so anywhere where is this caddy it will fit.
 
 <img width="1930" height="1086" alt="show all main plages" src="https://github.com/user-attachments/assets/b0ef627a-b434-431c-a39b-0e9e6b108ff2" />
 
