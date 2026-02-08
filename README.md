@@ -11,6 +11,9 @@
   
 ![Bez názvu 3](https://github.com/user-attachments/assets/9f1a8370-a15e-46ed-9029-c8c69af7dbfd)
 
+>[!NOTE]
+>For printing the lock [see here!](main%20body_V1/lock.stl) don't use stiff filament. Use slightly flexible filament such as PLA or PETG. 
+
 # How to assemble
 * For assembly, you will need all 3D printed parts [see here!](main%20body_V1). You will also need 2.4mm zip tie and a piece filament of the same material as the printed body.
   
